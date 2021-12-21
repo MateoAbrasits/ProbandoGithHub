@@ -23,6 +23,7 @@ p{
 }
 .gatitos{
     width: 2000px;
+    height: 300px;
     padding-right:40px ;
     
 }
@@ -36,4 +37,15 @@ p{
 .seccion2>p{
     text-align: right;
     padding-right: 20px;
+}
+.seccion3{
+    margin-top: 40px;
+    margin-right: 30px;
+    margin-left:30px;
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.seccion3>p{
+    text-align: left;
 }
